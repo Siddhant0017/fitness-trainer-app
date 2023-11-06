@@ -11,6 +11,7 @@ This web application allows fitness trainers to manage client appointments effic
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
 - [Usage](#usage)
+- [How to Run](#HowtoRun)
 - [Contributing](#contributing)
 - [License](#license)
 
