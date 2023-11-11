@@ -73,11 +73,11 @@ Open your web browser and go to http://localhost:3000.
 
 
 ## How to Run
-- Add new clients: Click on the "Add Client" button and fill in the details.
+- Add new clients: Fill the details of client and click on Add client button.
 
-- Schedule appointments: Use the calendar to schedule appointments for clients.
+- Schedule appointments: while adding the client details choose the date and time.
 
-- View and edit client details: Click on a client in the list to view and edit details.
+- View and edit client details: Click on edit button in the client list for specific client in the list to view and edit details.
 
 - Toggle calendar visibility: Click the "Show Calendar" button to toggle the visibility of the calendar.
 ## Contributing
